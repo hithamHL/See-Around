@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">See Around</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Restaurants">Restaurants</string>
+    <string name="places_of_worship">Places of worship</string>
+    <string name="parks">Parks</string>
+    <string name="tourist_destinations">Tourist destinations</string>
+</resources>
